@@ -1,6 +1,6 @@
 # Homework H1
 Hi, I hope its okay I just put on of my projects here instead:
-[Github](https://github.com/VladFeldfix/WireList-to-NETlist "My Project")
+[My Project](https://github.com/VladFeldfix/WireList-to-NETlist "WireList-to-NETlist")
 
 This project is something I need for my job
 It has 2 branches, main and v2.
