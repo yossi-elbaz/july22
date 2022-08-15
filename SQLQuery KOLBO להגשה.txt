@@ -1,0 +1,25 @@
+
+/*****יוסי אלבז 5/8/22 יש למלא טבלאות בעזרת שאילתת Insert (לפחות 10 שורות בכל טבלה)*****/
+
+
+insert into Product values (1006,'guitar case',145)
+insert into Product values (1003,'fender strat',3500)
+insert into Product values (1004,'mixer GIMINNI',1480)
+insert into Product values (1005,'coustom drummes',5590)
+insert into Product values (1001,'harmonica',118)
+insert into Product values (1002,'ear plags',231)
+insert into Product values (1007,'guitar PL cable',330)
+insert into Product values (1008,'SURE SM mic',670)
+insert into Product values (1009,'guitar strings',55)
+insert into Product values (1010,'bass strings',70)
+insert into Product values (1011,'guitar belt',99)
+insert into Product values (1012,'buds PRO',440)
+
+
+insert into Worker values 
+(2231,'Yossi'),(2226,'Oded'),(4352,'Avi'),
+(7839,'Ben'),(2641,'Israel'),(9854,'Ahron'),
+(1689,'Alex'),(1451,'Sergay'),(9766,'Ilan'),
+(9765,'Tal'),(3338,'Galit'),(8005,'David')
+
+
